@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 
-**jinwei14/jinwei14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jinwei14/jinwei14** is a ✨ Github Profile ✨  
 
-Here are some ideas to get you started:
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=jinwei14)](https://github.com/jinwei14/Coding-School) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=jinwei14&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jinwei14&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://github.com/sponsors/jinwei14">
   <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
