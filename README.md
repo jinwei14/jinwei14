@@ -18,7 +18,7 @@
 </div>
 
 ---
-- 🔭 I’m currently working on NLP search engine, Anomaly detection, ML knowlege sharing.
+- 🔭 I’m currently working on NLP search engine, Anomaly detection, knowlege sharing.
 - 🌱 I’m currently learning high concurrency machine learning production system.
 - 👯 I’m looking to collaborate on ML knowlege sharing.
 - 🤔 I’m looking for help with ML knowlege sharing.
