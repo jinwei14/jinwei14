@@ -24,5 +24,5 @@
 - 🤔 I’m looking for help with ML knowlege sharing.
 - 💬 Ask me about Big company interview, self taught machine learning etc.
 - 📫 How to reach me: janviezhang14@gmail.com
-- ⚡ Fun facts: Love reading books, power lifting and snowboarding.
+- ⚡ Fun facts: Love reading books, power lifting , TikTok and snowboarding.
 
