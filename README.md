@@ -22,7 +22,6 @@
 - 🌱 I’m currently learning high concurrency machine learning production system.
 - 👯 I’m looking to collaborate on ML knowlege sharing.
 - 🤔 I’m looking for help with ML knowlege sharing.
-- 💬 Ask me about Big company interview, self taught machine learning etc.
 - 📫 How to reach me: janviezhang14@gmail.com
 - ⚡ Fun facts: Love reading books, power lifting , TikTok and snowboarding.
 
