@@ -4,7 +4,7 @@
 **jinwei14/jinwei14** is a ✨ Github Profile ✨  
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=jinwei14&row=1&column=7&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=jinwei14&row=1&column=7&theme=onedark&no-frame=true)
 
 <a href="https://github.com/sponsors/jinwei14">
   <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
@@ -12,9 +12,13 @@
 
 ---
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=jinwei14&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinwei14&layout=compact" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=jinwei14&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinwei14&layout=compact&theme=radical" />
 </div>
+
+<br clear="both"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jinwei14&theme=radical)](https://git.io/streak-stats)
 
 ---
 - 🔭 I’m currently working on NLP search engine, Anomaly detection, knowlege sharing.
