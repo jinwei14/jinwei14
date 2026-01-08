@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Hi ** this is jinwei's ✨ Github Profile ✨  
+**Hi** this is jinwei's ✨ Github Profile ✨  
 
 
 ![GitHub followers](https://img.shields.io/github/followers/jinwei14?style=social)
