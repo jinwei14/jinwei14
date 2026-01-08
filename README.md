@@ -1,25 +1,11 @@
 ### Hi there 👋
 
 
-**jinwei14/jinwei14** is a ✨ Github Profile ✨  
+**Hi ** this is jinwei's ✨ Github Profile ✨  
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=jinwei14&row=1&column=7&theme=onedark&no-frame=true)
-
-<a href="https://github.com/sponsors/jinwei14">
-  <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
-</a>
-
----
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=jinwei14&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinwei14&layout=compact&theme=radical" />
-</div>
-
-<br clear="both"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jinwei14&theme=radical)](https://git.io/streak-stats)
-
+![GitHub followers](https://img.shields.io/github/followers/jinwei14?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/jinwei14?style=social)
 ---
 - 🔭 I’m currently working on NLP search engine, Anomaly detection, knowlege sharing.
 - 🌱 I’m currently learning high concurrency machine learning production system.
